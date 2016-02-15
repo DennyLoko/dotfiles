@@ -1,0 +1,1 @@
+/Users/dannielmagno/.vim/bundle/obsidian2.vim/colors/obsidian2.vim
