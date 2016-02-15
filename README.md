@@ -3,9 +3,9 @@
 This is a personal project of my dotfiles. Use as your wish.
 
 ## Links
- 1. `ln -s `pwd`/.vimrc ~/.vimrc`
- 2. `ln -s `pwd`/.vim ~/.vim`
- 3. `ln -s `pwd`/.iterm2 ~/.iterm2`
+ 1. ``ln -s `pwd`/.vimrc ~/.vimrc``
+ 2. ``ln -s `pwd`/.vim ~/.vim``
+ 3. ``ln -s `pwd`/.iterm2 ~/.iterm2``
 
 ## Configurations
 ### iTerm2
