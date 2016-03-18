@@ -101,6 +101,7 @@ call vundle#begin()
 Plugin 'VundleVim/Vundle.vim' " Required for Vundle manage Vundle
 Plugin 'ctrlp.vim'            " Fuzzy finder
 Plugin 'Yggdroot/indentLine'  " Shows the indentation of the file
+Plugin 'obsidian2.vim'
 
 call vundle#end()            " required
 filetype plugin indent on    " required
