@@ -8,9 +8,6 @@ set history=500
 filetype plugin on
 filetype indent on
 
-cd ~/projects
-
-
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => VIM user interface
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
