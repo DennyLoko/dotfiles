@@ -14,3 +14,4 @@ Go to iTerm2 preferences by typing <kbd>cmd</kbd> + <kbd>,</kbd> and check the b
 ### Vim
 To handle my Vim plugins I use Vundle, so before continuing it must be installed (you can install it by typing `git submodule update --init` from the repo path).
 
+
