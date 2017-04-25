@@ -59,6 +59,11 @@ set incsearch
 " Wildignore geral
 set wildignore+=*/node_modules/*,*/bower_components/*,*/.git/*,*.swp,*.svn/*,*/.DS_Store
 
+" Jump to last position when reopening a file
+if has("autocmd")
+  au BufReadPost * if line("'\"") > 1 && line("'\"") <= line("$") | exe "normal! g'\"" | endif
+endif
+
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Text, tab and indent related
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -106,4 +111,3 @@ Plugin 'obsidian2.vim'
 call vundle#end()            " required
 filetype plugin indent on    " required
 " End Vundle plugins
-
