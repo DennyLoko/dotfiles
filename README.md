@@ -6,6 +6,8 @@ This is a personal project of my dotfiles. Use as your wish.
  1. ``ln -s `pwd`/.vimrc ~/.vimrc``
  2. ``ln -s `pwd`/.vim ~/.vim``
  3. ``ln -s `pwd`/.iterm2 ~/.iterm2``
+ 4. ``ln -s `pwd`/.tmux ~/.tmux``
+ 5. ``ln -s `pwd`/.tmux.conf ~/.tmux.conf``
 
 ## Configurations
 ### iTerm2
