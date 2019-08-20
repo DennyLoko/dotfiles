@@ -1,3 +1,4 @@
 .DS_Store
 tmux/plugins/*
 !tmux/plugins/.gitkeep
+tmux/tmux-themepack
